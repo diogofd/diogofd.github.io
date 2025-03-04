@@ -1,18 +1,23 @@
 ---
-title: "Teaching experience 1"
+title: "Teaching Assistant at NOVA School of Business and Economics"
 collection: teaching
-type: "Undergraduate course"
+type: "Undergraduate "
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+date: 2022-01-01
+venue: "NOVA School of Business and Economics"
+location: "Lisbon, Portugal"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+I taught the following courses:
+- **Linear Algebra with Programming** (undergraduate course; Fall 2022)
+- **Data Analysis and Probability** (undergraduate course; Spring 2023)
+- **Linear Algebra with Programmimg** (undergraduate course; Spring 2024)
+- **Data Analysis and Programming** (undergraduate course; Fall 2024)
+- **Linear Algebra with Programming** (undergraduate course; Spring 2025)
 
 Heading 1
 ======
-
+What goes on here?
 Heading 2
 ======
 
