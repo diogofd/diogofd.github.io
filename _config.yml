@@ -23,11 +23,11 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Diogo Andrade"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Dumb bio"
   location         : "Earth"
-  employer         : "CAMGSD & NOVA School of Business and Economics"
+  employer         : "CAMGSD & NOVA SBE"
   uri              : # URL
   email            : "diogo.maria.f.a@tecnico.ulisboa.pt" 
 
