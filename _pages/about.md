@@ -25,3 +25,5 @@ I have been teaching at [NOVA School of Business Economics](https://www.novasbe.
 - Data Analysis and Probability. 
 
 I worked for a brief period at [CMVM](https://www.cmvm.pt/) (the Portuguese SEC) doing Cybersecurity and teaching crytpography to the agency.
+
+[Interesting Facts About Me](/interesting_facts)

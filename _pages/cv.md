@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Mathematics, Instituto Superior Técnico, 2025 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* PhD in Mathematics, Instituto Superior Técnico, 2025 (expected)
+* MSc in Mathematics, Instituto Superior Técnico, 2020 (_cum laude_)
+* BSc in Applied Mathematics and Computation, Instituto Superior Técncio, 2018
 
 Work experience
 ======
